@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameObject" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAAAAAAAIAAAAAAAAEAAAAAAAAAAIAAAQ=</HashCode>
+      <FileName>InheritanceExample (Ex2).cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Сharacters" Collapsed="true">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAACAABAIAAkAAAAAAAAAAAAAAGAAAC4=</HashCode>
+      <FileName>InheritanceExample (Ex2).cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HumanCharacter" Collapsed="true">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAIIAAAAAAAAAAAEAAAEAAAAAAU=</HashCode>
+      <FileName>InheritanceExample (Ex2).cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MagicCharacter" Collapsed="true">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAIAAAEAAABAAAAABAAAAAAAAAQ=</HashCode>
+      <FileName>InheritanceExample (Ex2).cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MythCreation" Collapsed="true">
+    <Position X="10" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAIAAAAAAAAgAACAAAAAAAgAAAU=</HashCode>
+      <FileName>InheritanceExample (Ex2).cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapon" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAgAAAAAIAAAAAAAAAAAgAQAAAAAAAAAQ=</HashCode>
+      <FileName>InheritanceExample (Ex2).cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
